@@ -1,0 +1,22 @@
+{
+  "name": "spoj",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.coffee",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "coffee test.coffee"
+  },
+  "keywords": [
+    "spoj"
+  ],
+  "author": "Michal Brašna <michal.brasna@gmail.com> (https://github.com/Gobie)",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "diff": "^2.0.2",
+    "glob": "^5.0.14"
+  }
+}
